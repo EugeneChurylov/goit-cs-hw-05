@@ -37,4 +37,3 @@ if __name__ == "__main__":
     asyncio.run(get_folders(source))
 
     print(f"All files copied to {output}. Source dir will be deleted")
-    
